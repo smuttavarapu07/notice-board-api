@@ -1,0 +1,5 @@
+### Replace with your actual API URL when testing
+GET {{NoticeBoardAPI_HostAddress}}/notices
+Accept: application/json
+
+###
